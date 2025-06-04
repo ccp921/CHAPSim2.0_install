@@ -1,6 +1,10 @@
+#### Prerequisites
+
+GCC>=10.0 and OpenMPI-4.0.3 on Ubuntu-20.04 (just for the case here, other versions of OpenMPI need to be tested).
+
 #### Building guide for CHAPSim2.0
 
-Use the ./lib/2decomp_fft_updated, just 
+Use the ./lib/2decomp_fft_updated, just
 
 ```bash
 cd lib/2decomp_fft_updated
