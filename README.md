@@ -3,7 +3,9 @@
 Use the ./lib/2decomp_fft_updated, just 
 
 ```bash
-cd ./lib/2decomp_fft_updated/src
+cd lib/2decomp_fft_updated
+mkdir include
+cd src
 make
 ```
 
