@@ -10,7 +10,7 @@ make
 Then, you got the compiled 2decomp_fft. Turn to compile the CHAPSim2.0 now
 
 ```bash
-cd ../..
+cd ../../..
 make all
 ```
 
