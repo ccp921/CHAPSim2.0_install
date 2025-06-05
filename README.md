@@ -7,6 +7,7 @@ GCC>=10.0 and OpenMPI-4.0.3 on Ubuntu-20.04 (just for the case here, other versi
 Use the ./lib/2decomp_fft_updated, just
 
 ```bash
+mkdir bin mod obj
 cd lib/2decomp_fft_updated
 mkdir include
 cd src
